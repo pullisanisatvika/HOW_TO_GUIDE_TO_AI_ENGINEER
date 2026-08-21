@@ -1,5 +1,3 @@
-Yes. For GitHub, it should read like clean technical Markdown documentation, not like an essay. Use this more concise version directly in role/02-skills.md.
-
 AI Engineer Skills
 
 Skills identified from my analysis of 895 AI Engineering job postings across Los Angeles, New York, London, Amsterdam, and Berlin.
